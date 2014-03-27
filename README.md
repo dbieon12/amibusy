@@ -3,6 +3,7 @@ amibusy
 
 Checks your Google Calendar data and displays whether you are busy or not busy.
 
+Demo: http://is.benhay.es/busy
 
 To Install:
 
